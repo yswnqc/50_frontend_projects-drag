@@ -8,5 +8,6 @@ An extra practice/50 Frontend practicing projects [Collection](https://github.co
 
 - Chrome works well, but Safari not
 - Cursor change
+- mobile can not drag
 
 [LINK TO](https://github.com/yswnqc/50_frontend_projects-21_drag_n_drop)
