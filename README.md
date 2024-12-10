@@ -6,6 +6,6 @@ An extra practice/50 Frontend practicing projects [Collection](https://github.co
 
 ### Need improve
 
-- Editing...
+- Chrome works well, but Safari not
 
 [LINK TO](https://github.com/yswnqc/50_frontend_projects-21_drag_n_drop)
